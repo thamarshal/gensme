@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+body{
+    /* overflow-x: hidden; */
+}
+.card{
+
+    border-radius: 0 0 15px 15px !important;
+}
+a{
+    text-decoration: none !important;
+    color: #9da0a4 !important;
+}
+footer{
+    background-color: #33373a ;
+}
+ul{
+    padding: 0 !important;
+    
+}
+.fonts{
+    font-size: 13px !important;
+}
+li{
+    
+    list-style: none !important;
+    margin: 20px 0;
+}
+.colo{
+    color: #9da0a4 !important;   
+}
+.centa{
+    margin: auto !important;
+}
